@@ -1,8 +1,12 @@
 # Watson Spring Boot
 
-[![Build Status](https://travis-ci.org/watson-developer-cloud/spring-boot-starter.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/spring-boot-starter)
+[![Build and Test](https://github.com/watson-developer-cloud/spring-boot-starter/actions/workflows/build-test.yml/badge.svg)](https://github.com/watson-developer-cloud/spring-boot-starter/actions/workflows/build-test.yml)
+[![Deploy and Publish](https://github.com/watson-developer-cloud/spring-boot-starter/actions/workflows/deploy.yml/badge.svg)](https://github.com/watson-developer-cloud/spring-boot-starter/actions/workflows/deploy.yml)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.ibm.watson.developer_cloud/watson-spring-boot-starter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.ibm.watson.developer_cloud/watson-spring-boot-starter)
 [![CLA assistant](https://cla-assistant.io/readme/badge/watson-developer-cloud/spring-boot-starter)](https://cla-assistant.io/watson-developer-cloud/spring-boot-starter)
+
+## Deprecated builds
+[![Build Status](https://travis-ci.org/watson-developer-cloud/spring-boot-starter.svg?branch=master)](https://travis-ci.org/watson-developer-cloud/spring-boot-starter)
 
 This project adds Spring Boot support for the Watson services.
 
